@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings 👋<br>My name is William Hansel :D <br>I love creating programs to solve daily problems or even just cause it's cool!<br><br>🔭 I’m currently working on Study Pet <br>🌱 I’m currently learning about LLM and Unity<br>👀 I'm interested in Ai, Ed-Tech, and game development ✨<br>💬 Ask me about science! I love talking about those subjects<br>⚡ Fun fact: I love public speaking and am developing a passion game on the side!
+Greetings 👋<br>My name is William Hansel :D <br>I love creating programs to solve daily problems or even just cause it's cool!<br><br>🔭 I’m currently working on Study Pet <br>🌱 I’m currently learning about LLM and Unity<br>👀 I'm interested in Ai, Ed-Tech, and game development ✨<br>💬 Ask me about science trivia! Or tell me some even :D We can exchange!<br>⚡ Fun fact: I love public speaking and am developing a passion game on the side!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/william.hansel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/whansel007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:w.hansel007@gmail.com) 
